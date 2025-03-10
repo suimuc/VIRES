@@ -35,6 +35,7 @@ pip install -v --disable-pip-version-check --no-cache-dir --no-build-isolation -
 | VIRES     | [:link:](https://huggingface.co/suimu/VIRES) |
 | VIRES-VAE | [:link:](https://huggingface.co/suimu/VIRES_VAE) |
 | T5        | [:link:](https://huggingface.co/DeepFloyd/t5-v1_1-xxl) |
+
 To run VIRES, please follow these steps:
 
 1- Download models using huggingface-cli:
