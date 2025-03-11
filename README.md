@@ -125,6 +125,10 @@ which can be found in the `opensora/models/stdit/vires.py` file, `line168-183`.
 When making these changes, you only need to ensure that the last out_channels of `self.hint_mid_convs` matches the `config.hidden_size`.
 
 Rest assured, reducing the channels will not significantly degrade the model’s performance, but it will greatly reduce memory usage.
+
+# Limitation
+Since VIRES did not apply data augmentation to the sketches extracted by the HED model during training, the model has become overly reliant on the specific characteristics of HED-generated sketches. Consequently, the provided sketch videos must be strictly derived from the HED model without any form of compression. Based on prior experience with image editing models, offering a diverse set of sketches should be sufficient to address this issue. However, due to resource constraints, this approach has not been implemented.
+
 # Citation
 ```bibtex
 @article{vires,
