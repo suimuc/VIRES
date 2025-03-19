@@ -1,5 +1,5 @@
 # [CVPR2025] VIRES: Video Instance Repainting via Sketch and Text Guided Generation
-## [Project page](https://suimuc.github.io/suimu.github.io/projects/VIRES/) | [Paper](https://arxiv.org/abs/2411.16199)
+## [Project page](https://hjzheng.net/projects/VIRES/) | [Paper](https://arxiv.org/abs/2411.16199)
 Official implementation of VIRES: Video Instance Repainting with Sketch and Text Guidance, which is accepted by CVPR 2025.
 <img width="800" alt="image" src="./assets/teaser.png">
 # Installation
