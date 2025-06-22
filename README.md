@@ -1,46 +1,7 @@
 # [CVPR2025] VIRES: Video Instance Repainting via Sketch and Text Guided Generation
 ## [Project page](https://hjzheng.net/projects/VIRES/) | [Paper](https://arxiv.org/abs/2411.16199)
 Official implementation of VIRES: Video Instance Repainting with Sketch and Text Guidance, which is accepted by CVPR 2025.
-
-<table align='center' border="0" style="width: 100%; text-align: center; margin-top: 80px;">
-  <tr>
-    <td>
-      <video align='center' src="https://github.com/user-attachments/assets/f62f2b6d-9846-40be-a976-56cc7d5a8a5b" muted autoplay loop></video>
-    </td>
-  </tr>
-</table>
-
-# Showcase
-
-<table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
-  <tr>
-    <td><strong>Input</strong></td>
-    <td><strong>Mask</strong></td>
-    <td><strong>Output</strong></td>
-  </tr>
-  <tr>
-      <td>
-          <video src="https://hjzheng.net/projects/VIRES/Teasers/car/input.mp4" width="100%" controls autoplay loop></video>
-      </td>
-      <td>
-          <video src="https://hjzheng.net/projects/VIRES/Teasers/car/mask.mp4" width="100%" controls autoplay loop></video>
-      </td>
-       <td>
-          <video src="https://hjzheng.net/projects/VIRES/Teasers/car/VIRES.mp4" width="100%" controls autoplay loop></video>
-     </td>
-  </tr>
-  <tr>
-      <td>
-          <video src="https://hjzheng.net/projects/VIRES/Teasers/dog/input.mp4" width="100%" controls autoplay loop></video>
-      </td>
-       <td>
-          <video src="https://hjzheng.net/projects/VIRES/Teasers/dog/mask.mp4" width="100%" controls autoplay loop></video>
-     </td>
-      <td>
-          <video src="https://hjzheng.net/projects/VIRES/Teasers/dog/VIRES.mp4" width="100%" controls autoplay loop></video>
-     </td>
-  </tr>
-</table>
+<img width="800" alt="image" src="./assets/teaser.png">
 
 # Installation
 ### Setup Environment
