@@ -1,7 +1,6 @@
 # [CVPR2025] VIRES: Video Instance Repainting via Sketch and Text Guided Generation
 ## [Project page](https://hjzheng.net/projects/VIRES/) | [Paper](https://arxiv.org/abs/2411.16199)
 Official implementation of VIRES: Video Instance Repainting with Sketch and Text Guidance, which is accepted by CVPR 2025.
-```html
 <table align='center' border="0" style="width: 100%; text-align: center; margin-top: 80px;">
   <tr>
     <td>
@@ -9,7 +8,6 @@ Official implementation of VIRES: Video Instance Repainting with Sketch and Text
     </td>
   </tr>
 </table>
-```
 # Showcase
 ```html
 <table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
