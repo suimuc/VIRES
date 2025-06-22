@@ -5,7 +5,7 @@ Official implementation of VIRES: Video Instance Repainting with Sketch and Text
 <table align='center' border="0" style="width: 100%; text-align: center; margin-top: 80px;">
   <tr>
     <td>
-      <video align='center' src="[https://hjzheng.net/projects/VIRES/demo_video.mp4](https://github.com/user-attachments/assets/f62f2b6d-9846-40be-a976-56cc7d5a8a5b)" muted autoplay loop></video>
+      <video align='center' src="https://github.com/user-attachments/assets/f62f2b6d-9846-40be-a976-56cc7d5a8a5b" muted autoplay loop></video>
     </td>
   </tr>
 </table>
