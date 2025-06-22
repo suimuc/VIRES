@@ -1,6 +1,7 @@
 # [CVPR2025] VIRES: Video Instance Repainting via Sketch and Text Guided Generation
 ## [Project page](https://hjzheng.net/projects/VIRES/) | [Paper](https://arxiv.org/abs/2411.16199)
 Official implementation of VIRES: Video Instance Repainting with Sketch and Text Guidance, which is accepted by CVPR 2025.
+
 <table align='center' border="0" style="width: 100%; text-align: center; margin-top: 80px;">
   <tr>
     <td>
@@ -8,29 +9,35 @@ Official implementation of VIRES: Video Instance Repainting with Sketch and Text
     </td>
   </tr>
 </table>
+
 # Showcase
 
 <table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
   <tr>
+    <td><strong>Input</strong></td>
+    <td><strong>Mask</strong></td>
+    <td><strong>Output</strong></td>
+  </tr>
+  <tr>
       <td>
-          <video src="https://github.com/user-attachments/assets/3fc44086-bdbf-4a54-bfe3-62cfd9dfb191" width="100%" controls autoplay loop></video>
+          <video src="https://hjzheng.net/projects/VIRES/Teasers/car/input.mp4" width="100%" controls autoplay loop></video>
       </td>
       <td>
-          <video src="https://github.com/user-attachments/assets/ad5a87cf-b50e-48d6-af35-774e3b1713e7" width="100%" controls autoplay loop></video>
+          <video src="https://hjzheng.net/projects/VIRES/Teasers/car/mask.mp4" width="100%" controls autoplay loop></video>
       </td>
        <td>
-          <video src="https://github.com/user-attachments/assets/78c7acc3-4fa2-447e-b77d-3462d411c81c" width="100%" controls autoplay loop></video>
+          <video src="https://hjzheng.net/projects/VIRES/Teasers/car/VIRES.mp4" width="100%" controls autoplay loop></video>
      </td>
   </tr>
   <tr>
       <td>
-          <video src="https://github.com/user-attachments/assets/f62f2b6d-9846-40be-a976-56cc7d5a8a5b" width="100%" controls autoplay loop></video>
+          <video src="https://hjzheng.net/projects/VIRES/Teasers/dog/input.mp4" width="100%" controls autoplay loop></video>
       </td>
        <td>
-          <video src="https://github.com/user-attachments/assets/42b6968e-c68a-4473-b773-406ccf5d90b1" width="100%" controls autoplay loop></video>
+          <video src="https://hjzheng.net/projects/VIRES/Teasers/dog/mask.mp4" width="100%" controls autoplay loop></video>
      </td>
       <td>
-          <video src="https://github.com/user-attachments/assets/015f1d6d-31a8-4454-b51a-5431d3c953c2" width="100%" controls autoplay loop></video>
+          <video src="https://hjzheng.net/projects/VIRES/Teasers/dog/VIRES.mp4" width="100%" controls autoplay loop></video>
      </td>
   </tr>
 </table>
