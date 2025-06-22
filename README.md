@@ -1,7 +1,47 @@
 # [CVPR2025] VIRES: Video Instance Repainting via Sketch and Text Guided Generation
 ## [Project page](https://hjzheng.net/projects/VIRES/) | [Paper](https://arxiv.org/abs/2411.16199)
 Official implementation of VIRES: Video Instance Repainting with Sketch and Text Guidance, which is accepted by CVPR 2025.
-<img width="800" alt="image" src="./assets/teaser.png">
+```html
+<table align='center' border="0" style="width: 100%; text-align: center; margin-top: 80px;">
+  <tr>
+    <td>
+      <video align='center' src="https://hjzheng.net/projects/VIRES/demo_video.mp4" muted autoplay loop></video>
+    </td>
+  </tr>
+</table>
+```
+# Showcase
+```html
+<table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
+  <tr>
+    <td><strong>Input</strong></td>
+    <td><strong>Mask</strong></td>
+    <td><strong>Output</strong></td>
+  </tr>
+  <tr>
+      <td>
+          <video src="https://hjzheng.net/projects/VIRES/Teasers/car/input.mp4" width="100%" controls autoplay loop></video>
+      </td>
+      <td>
+          <video src="https://hjzheng.net/projects/VIRES/Teasers/car/mask.mp4" width="100%" controls autoplay loop></video>
+      </td>
+       <td>
+          <video src="https://hjzheng.net/projects/VIRES/Teasers/car/VIRES.mp4" width="100%" controls autoplay loop></video>
+     </td>
+  </tr>
+  <tr>
+      <td>
+          <video src="https://hjzheng.net/projects/VIRES/Teasers/dog/input.mp4" width="100%" controls autoplay loop></video>
+      </td>
+       <td>
+          <video src="https://hjzheng.net/projects/VIRES/Teasers/dog/mask.mp4" width="100%" controls autoplay loop></video>
+     </td>
+      <td>
+          <video src="https://hjzheng.net/projects/VIRES/Teasers/dog/VIRES.mp4" width="100%" controls autoplay loop></video>
+     </td>
+  </tr>
+</table>
+```
 # Installation
 ### Setup Environment
 For CUDA 12.1, you can install the dependencies with the following commands. Otherwise, you need to manually install `torch`, `torchvision` and `xformers`.
