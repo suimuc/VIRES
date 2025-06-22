@@ -11,8 +11,37 @@ Official implementation of VIRES: Video Instance Repainting with Sketch and Text
   </tr>
 </table>
 
+# Showcase
 
-
+<table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
+  <tr>
+    <td><strong>Input</strong></td>
+    <td><strong>Mask</strong></td>
+    <td><strong>Output</strong></td>
+  </tr>
+  <tr>
+      <td>
+          <video src="https://github.com/user-attachments/assets/d11ae4c2-29b0-4abb-aa1d-871f752b7c87" width="100%" controls autoplay loop></video>
+      </td>
+      <td>
+          <video src="https://github.com/user-attachments/assets/47c059d4-f385-4963-b0da-af574448395a" width="100%" controls autoplay loop></video>
+      </td>
+       <td>
+          <video src="https://github.com/user-attachments/assets/9cbc52ed-3592-47fa-b93c-b7b43bf6da02" width="100%" controls autoplay loop></video>
+     </td>
+  </tr>
+  <tr>
+      <td>
+          <video src="https://github.com/user-attachments/assets/ab18c571-4bc1-4e2c-95b8-e96d80c34842" width="100%" controls autoplay loop></video>
+      </td>
+       <td>
+          <video src="https://github.com/user-attachments/assets/d81e6170-b6eb-465f-828b-d727aeae1aa9" width="100%" controls autoplay loop></video>
+     </td>
+      <td>
+          <video src="https://github.com/user-attachments/assets/d8431793-5b90-4029-afe5-2ebd535dc084" width="100%" controls autoplay loop></video>
+     </td>
+  </tr>
+</table>
 
 # Installation
 ### Setup Environment
