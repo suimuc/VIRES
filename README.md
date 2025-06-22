@@ -3,6 +3,17 @@
 Official implementation of VIRES: Video Instance Repainting with Sketch and Text Guidance, which is accepted by CVPR 2025.
 <img width="800" alt="image" src="./assets/teaser.png">
 
+<table align='center' border="0" style="width: 100%; text-align: center; margin-top: 80px;">
+  <tr>
+    <td>
+      <video align='center' src="https://github.com/user-attachments/assets/77ba1629-9a85-48ca-a30d-9dd645e146dd" muted autoplay loop></video>
+    </td>
+  </tr>
+</table>
+
+
+
+
 # Installation
 ### Setup Environment
 For CUDA 12.1, you can install the dependencies with the following commands. Otherwise, you need to manually install `torch`, `torchvision` and `xformers`.
