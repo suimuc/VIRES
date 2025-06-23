@@ -63,7 +63,7 @@ pip install --no-deps -r requirements.txt
 pip install -v -e .
 # install flash attention
 # set enable_flash_attn=True in config to enable flash attention
-pip install flash-attn --no-build-isolation
+pip install flash-attn==2.7.4.post1
 # install apex
 # set enable_layernorm_kernel=True and shardformer=True in config to enable apex
 pip install -v --disable-pip-version-check --no-cache-dir --no-build-isolation --config-settings "--build-option=--cpp_ext" --config-settings "--build-option=--cuda_ext" git+https://github.com/NVIDIA/apex.git@24.04.01
