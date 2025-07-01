@@ -170,9 +170,10 @@ Rest assured, reducing the channels will not significantly degrade the model’s
 # Citation
 ```bibtex
 @article{vires,
-    title={VIRES: Video Instance Repainting via Sketch and Text Guided Generation},
-    author={Weng, Shuchen and Zheng, Haojie and Zhang, Peixuan and Hong, Yuchen and Jiang, Han and Li, Si and Shi, Boxin},
-    journal={arXiv preprint arXiv:2411.16199},
-    year={2024}
+      title={VIRES: Video Instance Repainting via Sketch and Text Guided Generation},
+      author={Weng, Shuchen and Zheng, Haojie and Zhang, Peixuan and Hong, Yuchen and Jiang, Han and Li, Si and Shi, Boxin},
+      booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+      pages={28416--28425},
+      year={2025}
 }
 ```
