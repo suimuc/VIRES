@@ -167,6 +167,12 @@ When making these changes, you only need to ensure that the last out_channels of
 
 Rest assured, reducing the channels will not significantly degrade the model’s performance, but it will greatly reduce memory usage.
 
+# Acknowledgements
+
+This model is a fine-tuned derivative version based on the **Open-Sora** model. Its original code and model parameters are governed by the [Open-Sora LICENSE](https://github.com/hpcaitech/Open-Sora/blob/main/LICENSE).
+
+As a derivative work of Open-Sora, the use, distribution, and modification of this model must comply with the license terms of Open-Sora.
+
 # Citation
 ```bibtex
 @article{vires,
